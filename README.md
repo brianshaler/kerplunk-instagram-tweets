@@ -1,6 +1,6 @@
 # kerplunk-instagram-tweets
 
-[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. 
+[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. When tweets link to Instagram posts, show them as activity on those posts.
 
 [![Build Status](https://travis-ci.org/brianshaler/kerplunk-instagram-tweets.svg)](https://travis-ci.org/brianshaler/kerplunk-instagram-tweets)
 [![npm version](https://img.shields.io/npm/v/kerplunk-instagram-tweets.svg)](https://www.npmjs.com/package/kerplunk-instagram-tweets)
