@@ -2,7 +2,7 @@
   "name": "kerplunk-instagram-tweets",
   "displayName": "Instagram + Twitter de-duplication",
   "description": "When tweets link to Instagram posts, show them as activity on those posts.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "dependencies": [
       "kerplunk-instagram",
